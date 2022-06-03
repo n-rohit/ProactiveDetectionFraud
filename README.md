@@ -6,6 +6,7 @@ Firstly I used the Data Cleaning Techniques to prepare and organize the data. Th
 You can open <i>Proactive_Detection_Fraud.ipynb</i> directly in Google Colab by clicking the link and then clicking on 'Open with Google Colaboratory': 
 https://drive.google.com/file/d/1YLWCe4bFYrOOGxAukRcHtdwpyJ8j-EmQ/view?usp=sharing
 <br>
+<br>
 You can access the <i>Fraud.csv</i> file by clicking the link: 
 https://drive.google.com/file/d/1D6hpncWVwleX7ZZHFlODGXu2yfofOzZl/view?usp=sharing
 
